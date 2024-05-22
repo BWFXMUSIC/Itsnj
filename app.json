@@ -43,12 +43,12 @@
       },
       "SPOTIFY_CLIENT_ID": {
         "description": "Spotify Client Id",
-        "value": "",
+        "value": "bcfe26b0ebc3428882a0b5fb3e872473",
         "required": false
       },
       "SPOTIFY_CLIENT_SECRET": {
         "description": "Spotify client secret",
-        "value": "",
+        "value": "907c6a054c214005aeae1fd752273cc4",
         "required": false
       },
       "OWNER_ID": {
